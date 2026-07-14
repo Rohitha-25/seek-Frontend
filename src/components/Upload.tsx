@@ -60,7 +60,7 @@ export default function Upload({
                 <input
                     ref={fileInputRef}
                     type="file"
-                    accept=".pdf, .doc, .docx, .txt, .pptx"
+                    accept=".pdf, .docx, .txt, .pptx"
                     onChange={handleFileChange}
                     disabled={uploading}
                     hidden
