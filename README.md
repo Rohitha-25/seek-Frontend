@@ -41,15 +41,15 @@ seek is a client-based application that allows you to:
 
 ### Project Structure
 
-src/
- |── api/
- │    |── documentAPI.ts      — all fetch() calls to the backend REST API
- |── components/
- │    |── Upload.tsx          — sidebar: upload button, document list, delete
- │    |── Chat.tsx            — main panel: message history, question input
- |── types.ts                 — shared TypeScript interfaces
- |── App.tsx                  — top-level state and layout
- |── App.css                  — styling
+seek-frontend
+├── src
+│   ├── App.tsx
+│   ├── api
+│   │   └── documentAPI.ts
+│   ├── components
+│   │   ├── Chat.tsx
+│   │   └── Upload.tsx
+│   └── types.ts
 
 
 <table>
