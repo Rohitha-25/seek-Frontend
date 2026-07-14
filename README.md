@@ -1,4 +1,4 @@
-## seek — frontend
+## 📄 seek — frontend
 
 #### React + TypeScript frontend for seek, a RAG (Retrieval-Augmented Generation) application that lets users upload documents and ask natural-language questions about their content.
 
