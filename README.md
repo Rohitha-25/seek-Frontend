@@ -93,8 +93,10 @@ seek-frontend
 Node.js + npm
 
 #### Steps:
+```
 npm install
 npm run dev
+```
 
 ### Terminology
 
