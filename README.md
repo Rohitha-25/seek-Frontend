@@ -41,6 +41,7 @@ seek is a client-based application that allows you to:
 
 ### Project Structure
 
+```
 seek-frontend
 ├── src
 │   ├── App.tsx
@@ -50,7 +51,7 @@ seek-frontend
 │   │   ├── Chat.tsx
 │   │   └── Upload.tsx
 │   └── types.ts
-
+```
 
 <table>
   <tr>
